@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS and A.I<br>👯 I’m looking to collaborate on Cyber Security and Web Apps<br>🌱 I’m currently learning Golang, Fine-tuning models and Front-end
+🔭 I’m currently working on AWS and A.I<br>👯 I’m looking to collaborate on Cyber Security and Web Apps<br>🌱 I’m currently learning Golang, Fine-tuning models and Cyber Security
 
 
 ## 🌐 Socials:
